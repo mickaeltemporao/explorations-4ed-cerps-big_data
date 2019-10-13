@@ -1,5 +1,5 @@
-ignore.md
 ## Core latex/pdflatex auxiliary files:
+*.bib
 *.aux
 *.lof
 *.log
